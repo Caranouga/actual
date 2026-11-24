@@ -117,7 +117,8 @@
     "glob-hasher-linux-arm64-gnu": "1.4.2"
   },
   "resolutions": {
-    "serialize-javascript": "^7.0.5"
+    "serialize-javascript": "^7.0.5",
+    "body-parser": "^2.4.0"
   },
   "browserslist": [
     "electron >= 35.0",
